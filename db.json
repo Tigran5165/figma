@@ -1,0 +1,69 @@
+{
+  "menuArray": [
+    {
+      "id": "1",
+      "name": "Big and Juicy Wagyu Beef Cheeseburger",
+      "img": "/images/menu1.svg",
+      "categories": "Snack",
+      "like": false,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "2",
+      "name": "Fresh Lime Roasted Salmon with Ginger Sauce",
+      "img": "/images/menu2.svg",
+      "categories": "Fish",
+      "like": true,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "3",
+      "name": "Strawberry Oatmeal Pancake with Honey Syrup",
+      "img": "/images/menu3.svg",
+      "categories": "Breakfast",
+      "like": true,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "4",
+      "name": "Fresh and Healthy Mixed Mayonnaise Salad",
+      "img": "/images/menu4.svg",
+      "categories": "Healthy",
+      "like": false,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "5",
+      "name": "Chicken Meatballs with Cream Cheese",
+      "img": "/images/menu5.svg",
+      "categories": "Meat",
+      "like": true,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "6",
+      "name": "Fruity Pancake with Orange & Blueberry",
+      "img": "/images/menu6.svg",
+      "categories": "Sweet",
+      "like": false,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "7",
+      "name": "The Best Easy One Pot Chicken and Rice",
+      "img": "/images/menu7.svg",
+      "categories": "Snack",
+      "like": false,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    },
+    {
+      "id": "8",
+      "name": "The Creamiest Creamy Chicken and Bacon Pasta",
+      "img": "/images/menu8.svg",
+      "categories": "Noodles",
+      "like": false,
+      "bg": " linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%)"
+    }
+  ],
+  "menuArray2": []
+}
